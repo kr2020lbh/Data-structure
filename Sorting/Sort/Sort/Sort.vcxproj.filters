@@ -30,9 +30,24 @@
     <ClCompile Include="Heap.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MergeSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RadixSort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBaseQueue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Heap.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBaseQueue.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

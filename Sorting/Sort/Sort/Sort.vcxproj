@@ -142,11 +142,16 @@
     <ClCompile Include="BubbleSort.c" />
     <ClCompile Include="Heap.c" />
     <ClCompile Include="InsertSionSort.c" />
+    <ClCompile Include="ListBaseQueue.c" />
+    <ClCompile Include="MergeSort.c" />
+    <ClCompile Include="QuickSort.c" />
+    <ClCompile Include="RadixSort.c" />
     <ClCompile Include="SelectSort.c" />
     <ClCompile Include="HeapSort.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Heap.h" />
+    <ClInclude Include="ListBaseQueue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
